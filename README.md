@@ -10,11 +10,11 @@ Welcome to the Barcode Scanning Application! This Android app leverages Google M
 
 ## Screenshots
 
-<img src="app/src/main/assets/home_screen.png" alt="Home Screen" width="300" height="600">
-*Home screen of the application.*
+| Home Screen                               | Scanning Barcode                           |
+| ----------------------------------------- | ------------------------------------------ |
+| ![Home Screen](app/src/main/assets/home_screen.png) | ![Scanning Barcode](app/src/main/assets/scanning_barcode.png) |
+| Home screen of the application.           | Scanning a barcode using Google MLKit.    |
 
-<img src="app/src/main/assets/scanning_barcode.png" alt="Scanning Barcode" width="300" height="600">
-*Scanning a barcode using Google MLKit.*
 
 ## Getting Started
 
