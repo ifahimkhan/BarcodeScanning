@@ -8,6 +8,13 @@ Welcome to the Barcode Scanning Application! This Android app leverages Google M
 - 🔍 Auto-zoom functionality for better barcode detection.
 - 📊 Display scanned barcode results in real-time.
 
+## Screenshots
+
+![Home Screen](app/src/main/assets/home_screen.png)
+*Home screen of the application.*
+
+![Scanning Barcode](app/src/main/assets/scanning_barcode.png)
+
 ## Getting Started
 
 ### Prerequisites
