@@ -10,12 +10,6 @@ Welcome to the Barcode Scanning Application! This Android app leverages Google M
 
 ## Screenshots
 
-![Home Screen]()
-*Home screen of the application.*
-
-![Scanning Barcode]()
-
-
 <img src="app/src/main/assets/home_screen.png" alt="Home Screen" width="300" height="600">
 *Home screen of the application.*
 
